@@ -1,0 +1,6 @@
+C:\Users\okuhl\Documents\Visual Studio 2017\Projects\Assignment_OkuhleNgada\Assignment_OkuhleNgada\bin\Debug\Assignment_OkuhleNgada.exe.config
+C:\Users\okuhl\Documents\Visual Studio 2017\Projects\Assignment_OkuhleNgada\Assignment_OkuhleNgada\bin\Debug\Assignment_OkuhleNgada.exe
+C:\Users\okuhl\Documents\Visual Studio 2017\Projects\Assignment_OkuhleNgada\Assignment_OkuhleNgada\bin\Debug\Assignment_OkuhleNgada.pdb
+C:\Users\okuhl\Documents\Visual Studio 2017\Projects\Assignment_OkuhleNgada\Assignment_OkuhleNgada\obj\Debug\Assignment_OkuhleNgada.csprojResolveAssemblyReference.cache
+C:\Users\okuhl\Documents\Visual Studio 2017\Projects\Assignment_OkuhleNgada\Assignment_OkuhleNgada\obj\Debug\Assignment_OkuhleNgada.exe
+C:\Users\okuhl\Documents\Visual Studio 2017\Projects\Assignment_OkuhleNgada\Assignment_OkuhleNgada\obj\Debug\Assignment_OkuhleNgada.pdb
